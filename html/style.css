@@ -1,0 +1,73 @@
+.c1{
+    color: red;
+}
+.c2{
+    color: gray;
+}
+#c1{
+    color: yellow;
+}
+#c2{
+    color: blue;
+}
+.clr{
+    background-color: green;
+}
+.clr1{
+    background-color: yellow;
+}
+.font-mano{
+    font-family:monospace;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 50px;
+    text-decoration: dashed;
+}
+#ab{
+    color: aqua;
+}
+.ab1{
+    color: salmon;
+}
+h1{
+    color: maroon;
+}
+ul{
+    list-style-type: square ;
+}
+.container{
+    color: navy;
+}
+.container-2{
+    border: 2px solid blue;
+    height: 100%;
+    width: 100%;
+    padding: 2%;
+    margin: 2%;
+}
+.cont-1{
+    color: rgba(red, green, blue, alpha)
+}
+th,td{
+    border: 2px solid brown;
+    padding: 15;
+}
+table{
+    border-collapse: collapse ;
+    width: 10%;
+    text-align: center;
+}
+.container{
+    border: 2px solid violet;
+    height: 50px;
+    width: 500px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+.container h1{
+    
+    color: #40128B;
+
+}

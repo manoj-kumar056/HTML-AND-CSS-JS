@@ -1,0 +1,48 @@
+.container{
+    border: 6px solid black;
+    display: grid;
+    grid-template-columns:repeat(3,100px);
+}
+.grid-item{
+    text-align: center;
+    padding: 20px;
+    font-size: 1rem;
+    color: white;
+}
+.item1{
+    height: 50px;
+
+    background-color: yellow;
+}
+.item2{
+    height: 50px;
+    background-color: green;
+}
+.item3{
+    height: 50px;
+    background-color: red;
+}
+.item4{
+    height: 50px;
+    background-color: blueviolet;
+}
+.item5{
+    height: 50px;
+    background-color: black;
+}
+.item6{
+    height: 50px;
+    background-color: orangered;
+}
+.item7{
+    height: 50px;
+    background-color: brown;
+}
+.item8{
+    height: 50px;
+    background-color: lightblue;
+}
+.item9{
+    height: 50px;
+    background-color: darkcyan;
+}

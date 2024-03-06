@@ -1,0 +1,15 @@
+
+.header{
+    background-color:black;
+    height:70px;
+}
+ol{
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-evenly;
+}
+img{
+    padding:1%;
+}

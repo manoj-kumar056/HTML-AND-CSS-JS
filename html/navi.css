@@ -1,0 +1,39 @@
+.header-container{
+   border: 5px solid rgb(0, 0, 0);
+   border-radius: 15px;
+   display: flex;
+   justify-content: space-between;
+
+}
+.head-items{
+    text-align: center;
+    padding: 2rem;
+    font-size: 20px;
+}
+.logo{
+    background-color: rgb(0, 0, 0);
+
+}
+.nav-container{
+    background-color: rgb(247, 0, 255);
+    display: flex;
+    justify-content:space-between ;
+    
+}
+.nav-items{
+  text-align: center;
+  padding: 2rem;
+  font-size: 20px;       
+}
+.it1{
+       background-color: rgb(179, 255, 0);
+}
+ .it2{
+        background-color: rgb(238, 255, 0);
+}
+.it3{
+        background-color: rgb(0, 110, 255);
+}
+.it4{
+        background-color: rgb(0, 255, 64);
+}
